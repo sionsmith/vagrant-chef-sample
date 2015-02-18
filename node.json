@@ -1,0 +1,11 @@
+{
+  "aws_developer_tools": {
+    "install_ruby?":false
+  },
+  "languages": {
+    "ruby": {
+      "default_version":"1.9.1"
+    }
+  },
+  "run_list": [ "gocd::default" ]
+}
